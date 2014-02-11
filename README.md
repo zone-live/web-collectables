@@ -24,3 +24,6 @@ http://awesomegifs.com/
 Valentines GIF
 http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr04/9/1/anigif_enhanced-buzz-27399-1391928643-12.gif
 http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr03/9/1/anigif_enhanced-buzz-17251-1391928086-4.gif
+
+One of the Best: wifflegif
+http://wifflegif.com/
