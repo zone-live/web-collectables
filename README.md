@@ -27,3 +27,7 @@ http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr03/9/1/anigif_enhanced-buz
 
 One of the Best: wifflegif
 http://wifflegif.com/
+
+
+Accpet Jesus
+http://www.dokimos.org/ajff/
