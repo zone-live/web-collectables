@@ -29,3 +29,5 @@ A wanna be repository of the best GIFs, web pages, animations, and simple/stupid
 [lolwtf GIRF](http://lolwtfgif.com/)
 
 [Google Santa Tracker Animations](http://www.behance.net/gallery/Google-Santa-Tracker-Animations/13381409)
+
+[Typing dog!](https://d262ilb51hltx0.cloudfront.net/max/800/0*q_Ch1WSIXE65JmfL.gif)
