@@ -33,3 +33,5 @@ A wanna be repository of the best GIFs, web pages, animations, and simple/stupid
 [Typing dog!](https://d262ilb51hltx0.cloudfront.net/max/800/0*q_Ch1WSIXE65JmfL.gif)
 
 [lememe](http://www.lememe.com/)
+
+[Non-Stop Pika Cat] (http://www.nyan.cat/)
