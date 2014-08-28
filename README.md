@@ -37,3 +37,5 @@ A wanna be repository of the best GIFs, web pages, animations, and simple/stupid
 [Non-Stop Pika Cat] (http://www.nyan.cat/)
 
 [giphy] (http://giphy.com/)
+
+[blog.njla] (http://blog.njla.us/)
