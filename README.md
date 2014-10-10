@@ -39,3 +39,5 @@ A wanna be repository of the best GIFs, web pages, animations, and simple/stupid
 [giphy] (http://giphy.com/)
 
 [blog.njla] (http://blog.njla.us/)
+
+[proteys404] (http://proteys.info/404/)
