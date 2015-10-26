@@ -1,7 +1,7 @@
 web-collectables
 ================
 
-A wanna be repository of the best GIFs, web pages, animations, and simple/stupid pages spread all over the internet.
+A repository of cool stuf, the best GIFs, web pages, animations, and simple/stupid pages spread all over the internet.
 
 [Procratinator](http://www.procatinator.com/)
 
