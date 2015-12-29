@@ -1,4 +1,4 @@
-web-collectables
+Web-Collectables
 ================
 
 A repository of cool stuf, the best GIFs, web pages, animations, and simple/stupid pages spread all over the internet.
@@ -34,10 +34,10 @@ A repository of cool stuf, the best GIFs, web pages, animations, and simple/stup
 
 [lememe](http://www.lememe.com/)
 
-[Non-Stop Pika Cat] (http://www.nyan.cat/)
+[Non-Stop Pika Cat](http://www.nyan.cat/)
 
-[giphy] (http://giphy.com/)
+[giphy](http://giphy.com/)
 
-[blog.njla] (http://blog.njla.us/)
+[blog.njla](http://blog.njla.us/)
 
-[proteys404] (http://proteys.info/404/)
+[proteys404](http://proteys.info/404/)
